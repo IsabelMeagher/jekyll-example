@@ -6,7 +6,7 @@ header:
     overlay_image: /assets/images/kite.jpg
     actions:
         - label: "Learn More"
-        url: /about
+          url: /about
     overlay_filter: rgba(152, 48, 255, 0.5)
 ---
 
