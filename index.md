@@ -11,7 +11,7 @@ header:
     
 toc: true
 toc_label: "More"
-toc_icon: "cog"
+toc_sticky: true
 ---
 
 # Everyone's Favorite Vacation Spot
