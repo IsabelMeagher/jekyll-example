@@ -8,7 +8,6 @@ header:
         - label: "Learn More"
           url: /about
     overlay_filter: rgba(152, 48, 255, 0.5)
- 
 toc: true
 toc_label: "More"
 toc_sticky: true
@@ -18,7 +17,6 @@ toc_sticky: true
 # Dining
 
 # Activites
-
 ---
 
 # Everyone's Favorite Vacation Spot
