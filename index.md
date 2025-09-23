@@ -3,7 +3,7 @@ layout: home
 title: Trunia Island
 excerpt: Find Your Dream Vacation Today
 header:
-    overlay_image: /assets/images/kite.jpg
+    overlay_image: /assets/images/sunsetisland.jpg
     actions:
         - label: "Learn More"
           url: /about
