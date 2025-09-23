@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Dining
-excerpt: All You Can Eat!
 header:
     overlay_image: /assets/images/diner.jpg
 ---
