@@ -1,6 +1,6 @@
 ---
 header:
-  image: /assets/images/island.jpg
+    overlay_image: /assets/images/island.jpg
 ---
 
 # Activities
