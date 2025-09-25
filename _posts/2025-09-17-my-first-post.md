@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 
-# All Posts
+## All Posts
 
-## 100th Anniversary!!!
+### 100th Anniversary!!!
 This year marks the 100th anniverary of Trunia Isalnd! Trunia is having major events all year long to celebrate. 
 
 What to look out for:
@@ -18,7 +18,7 @@ What to look out for:
 - Trunia Island appreciation month (July)
 - Trunia Day - July 11th
 
-## Tropical Drinks
+### Tropical Drinks
 Your local tiki bars have just updated the menu with many new tropical drinks for you to try.
 
 ***New!:***
