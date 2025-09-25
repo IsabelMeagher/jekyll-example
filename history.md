@@ -26,7 +26,7 @@ header:
 
 - Sense John discovered the island, he had the right to own it. Ever since then, John worked hard to make it something even greater.
 
-**More Facts**:
+### **More Facts**
 - The island is named after John's wife, Trunia Izzy Dingle. When John saw the the beauty of the island, it made him think of his wife. 
 
 - In 1940, Trunia Island gained popularity quickly due to the island being in the direct path of a total solar eclipse. 
